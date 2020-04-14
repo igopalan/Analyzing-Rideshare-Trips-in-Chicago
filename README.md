@@ -1,6 +1,6 @@
 # Analyzing-Rideshare-Trips-in-Chicago
-"November 2018 to March 2019"
-All trips, starting November 2018, reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of routine reporting required by ordinance.
+
+All trips, starting November 2018, were reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of routine reporting required by ordinance.
 
 This project focuses on the recorded rideshare trips in Chicago from November 2018 through March 2019. The dataset has 1 million records, each representing a specific trip.
 
